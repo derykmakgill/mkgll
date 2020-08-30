@@ -15,7 +15,20 @@ title: "Deryk Makgill's Blog"
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+   {% if post.url != '/' %}
+    <p class="date" style="
+    margin-top: -20px;
+">
+        {% if post.date %}Published {{ post.date | date: "%Y-%m-%d" }}{% endif %}
+        on <a href="/">mkgll.com</a>
+    <span class="hidden-xs" style="display: none;">
+          &mdash;
+          <a href="{{ post.url }}">
+            Permalink
+          </a>
+        </span>
+    </p>
+    {% endif %}
 
     {{ post.content }}
   </div>
