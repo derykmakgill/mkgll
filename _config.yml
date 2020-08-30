@@ -1,26 +1,26 @@
 collections:
   notes:
-    output: true
+    output: false
     permalink: /notes/:year/:month/:day/:path/
   replies:
-    output: true
+    output: false
     permalink: /replies/:year/:month/:day/:path/
   links:
     output: false
     permalink: /links/:year/:month/:day/:path/
   photos:
-    output: true
+    output: false
     permalink: /photos/:year/:month/:day/:path/
   watches:
-    output: true
+    output: false
     permalink: /watches/:year/:month/:day/:path/
   chats:
-    output: true
+    output: false
     permalink: /chats/:year/:month/:day/:path/
   parodies:
-    output: true
+    output: false
     permalink: /:year/:month/:day/:path/
   research:
-    output: true
+    output: false
     permalink: /:year/:month/:day/:path/
 paginate:         1
