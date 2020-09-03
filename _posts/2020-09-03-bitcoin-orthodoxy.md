@@ -9,6 +9,8 @@ When I first learned about Bitcoin, people told me a lot of interesting things a
 
 "Bitcoin is anarchist and Satoshi created it to destroy governments." 
 
+"Code is law and nobody controls Bitcoin."
+
 "Bitcoin cannot be seized or traced." 
 
 "Bitcoin comes from the cypherpunks like Wei Dai."
