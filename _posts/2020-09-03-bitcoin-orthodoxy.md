@@ -23,9 +23,7 @@ I chose the word, *orthoxody,* because it comes from the Greek word ὀρθοδ�
 
 Although I've never participated in the witchunts that are so popular in the Bitcoin industry, it wasn't until 2017, nearly five years after I had first heard of Bitcoin, that I began to seriously question this orthodoxy itself. 
 
-
-
-
+That's what this essay is about. It points to some important findings that I've had during my time in Bitcoin that helped me "wake up" from the Bitcoin Orthodoxy. It's not a definitive theory of Bitcoin so much as it is a splash of cold water for people who still unquestioningly believe the Orthodoxy. For me, I learned more about what I could expect from Bitcoin and what I shouldn't expect, and thus where I should focus my time and energy and where I shouldn't.
 
 
 
