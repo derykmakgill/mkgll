@@ -7,7 +7,9 @@ tl;dr: ABC has demonstrated, like all humans, a willingness to replace or ignore
 
 ## Introduction
 
-I am not a fan of governance, especially when it comes to money. I think governance has no place in money at all and that power over money is always and inevitably power over people.
+Governance has no place in money. Power over money is always power over people.
+
+
 
 
 
