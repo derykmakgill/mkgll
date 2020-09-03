@@ -5,6 +5,8 @@ title: Bitcoin orthodoxy
 
 When I first learned about Bitcoin, people told me a lot of interesting things about it. 
 
+"Bitcoin is digital gold."
+
 "Bitcoin is anarchist and Satoshi created it to destroy governments." 
 
 "Bitcoin cannot be seized or traced." 
@@ -21,7 +23,7 @@ I chose the word, *orthoxody,* because it comes from the Greek word ὀρθοδ�
 
 >The split between BSV and BCH was a low point in my life. Many of the people who I thought were my friends turned on me in a two week period and started bashing me publicly on social media. They went from friends to enemies in a heartbeat. That was a rough lesson. It made me question everything I was doing in life. It is not something I ever want to experience again.
 
-Although I've never participated in the witchunts that are so popular in the Bitcoin industry, it wasn't until 2017, nearly five years after I had first heard of Bitcoin, that I began to seriously question this orthodoxy itself. 
+Although I've never participated in the witchunts that are so popular in the Bitcoin industry except to defend people against them, it wasn't until 2017, nearly five years after I had first heard of Bitcoin, that I began to seriously question this orthodoxy itself. 
 
 That's what this essay is about. It points to some important findings that I've had during my time in Bitcoin that helped me "wake up" from the Bitcoin Orthodoxy. It's not a definitive theory of Bitcoin so much as it is a splash of cold water for people who still unquestioningly believe the Orthodoxy. For me, I learned more about what I could expect from Bitcoin and what I shouldn't expect, and thus where I should focus my time and energy and where I shouldn't.
 
