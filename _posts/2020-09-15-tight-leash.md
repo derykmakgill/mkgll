@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " "Tight Leash and Collar ""
+title: "'Tight Leash and Collar'"
 ---
 
 In 2013 a New York Times article quoted me as saying "I can be tricked by anyone who looks like Mark Zuckerberg."
