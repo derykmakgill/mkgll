@@ -9,6 +9,8 @@ That sentence has since become a minor Internet meme, as cherished by its adhere
 
 Is it true? Of course not. That statement was a joke. I have a strange ability to notice things about faces. In 2010 we had one applicant that I noticed during the interview looked like Zuck. Afterward I bored the other partners with an explanation of why. After years of hearing this sort of thing, my observations about faces had become an ongoing joke within YC. The startup in question fell apart almost immediately due to a cofounder dispute, and afterward the other partners kidded me for talking so much about how he looked like Zuck.
 
+>I’m worried this could easily turn into a slush-fund boondoggle for developers, a sort of universal basic income for them that gives them more leeway to turn Bitcoin Cash into science project instead of the tight leash and collar with clear success metrics it should be.
+
 It was not only a joking reference to a single incident, but the fact that we joked about it shows we knew that looking like Zuck had no predictive value.
 
 As if anyone would think it did. Could anyone be so naive as to think that resembling Zuck would be enough to make a founder succeed? And is it plausible that we, of all people, who'd interviewed thousands of founders, would think such a thing?
