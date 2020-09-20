@@ -23,4 +23,6 @@ collections:
   research:
     output: false
     permalink: /:year/:month/:day/:path/
-paginate:         1
+paginate:     1
+
+markdown: kramdown
