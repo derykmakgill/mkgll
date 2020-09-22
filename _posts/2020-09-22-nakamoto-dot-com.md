@@ -9,13 +9,15 @@ There is no evidence that Satoshi sent an email to Hal Finney in August. Satoshi
 
 >I would consider Bitcoin to have failed with regard to its monetary policy (because the policy causes high price volatility which imposes a heavy cost on its users, who have to either take undesirable risks or engage in costly hedging in order to use the currency). (This may have been partially my fault because when Satoshi wrote to me asking for comments on his draft paper, I never got back to him. Otherwise perhaps I could have dissuaded him (or them) from the "fixed supply of money" idea.) 
 
+So not only did Wei Dai not give Satoshi feedback, his feedback would have been far from positive.
+
 >The best place to look for insight into how Bitcoin arose is in the white paper itself. Satoshi includes several citations…From this we can conclude that Satoshi was well aware of his predecessors—of the cypherpunks and of academic innovations in cryptography. 
 
 The author goes on to cite Satoshi’s own words.
 
 >Bitcoin is an implementation of Wei Dai's b-money proposal on Cypherpunks in 2008 and Nick Szabo's BitGold proposal.
 
-
+This would seem 
 
 >Both Adam Back and Hal Finney, two of Satoshi's early collaborators, used their real names online. 
 
