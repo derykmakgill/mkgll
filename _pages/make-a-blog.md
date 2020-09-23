@@ -1,6 +1,7 @@
 ---
 layout: page
 title: You should make a blog!
+permalink: make-a-blog
 ---
 
 I would like to see more people writing about their passions and thoughts in a permanent and public medium. You should make a blog!
