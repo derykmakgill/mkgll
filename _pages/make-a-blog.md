@@ -47,8 +47,6 @@ Here’s a list of blogs which have taken me up on this offer, roughly sorted fr
 *   [Todd Davies’ blog](https://todddavies.co.uk/blog/)
 *   [Daniel Playfair Cal’s Blog](https://www.danielplayfaircal.com/)
 *   [xy2_](https://xy2.dev/)
-*   [buffer = NULL;](https://nullbuffer.com/)
-*   [Thomas Dagenais’ Blog | i64.dev](https://i64.dev/)
 *   [papatutuwawa@home:~$](https://blog.polynom.me/)
 *   [kindly](https://pensinspace.net/kindly/)
 *   [[esotericnonsense %] ~/blog](https://esotericnonsense.com/blog/)
