@@ -3,7 +3,7 @@ layout: page
 title: People
 ---
 
-## People I know in person
+## Real
 
 [T.K. Coleman](https://tkcoleman.com) ([twitter](https://twitter.com/tk_coleman))
 
@@ -17,5 +17,5 @@ Cameron Sorsby
 
 Roger Ver
 
-## People I know online
+## Online
 
