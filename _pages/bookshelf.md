@@ -29,6 +29,14 @@ Since the stacks and shelves lack any particular order, so too does this list.
 
 - A New Dictionary of Quotations on Historical Principles from Ancient and Modern Sources
 
+## Economics
+
+- Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics
+- Human Action: A Treatise on Economics
+- What Has Government Done to Our Money?
+- Capitalism: A Treatise on Economics
+
+
 ## Letters
 
 - Letters of Ayn Rand
