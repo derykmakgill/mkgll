@@ -13,6 +13,7 @@ Since the stacks and shelves lack any particular order, so too does this list.
 ## Anthology
 
 - A Mencken Chrestomathy: His Own Selection of His Choicest Writing
+- The Everyman Chesterton
 
 ## Autobiography
 
@@ -36,3 +37,16 @@ Since the stacks and shelves lack any particular order, so too does this list.
 ## Notebooks
 
 -  Minority Report: H.L. Mencken Notebooks
+-  The Journals of Ayn Rand
+
+## Philosophy
+
+- Basic Writings of Nietzsche
+- The Virtue of Selfishness: A New Concept of Egoism
+- Capitalism: The Unknown Ideal
+- The Romantic Manifesto: A Philosophy of Literature
+- The Voice of Reason: Essays in Objectivist Thought
+- The Return of the Primitive: The Anti-Industrial Revolution
+- The Ominous Parallels: The End of Freedom in America
+- Objectivism: The Philosophy of Ayn Rand
+- Understanding Objectivism: A Guide to Learning Ayn Rand's Philosophy
