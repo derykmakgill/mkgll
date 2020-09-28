@@ -10,44 +10,27 @@ I flagged a few books that I thought were particularly great in green and those 
 
 Since the stacks and shelves lack any particular order, so too does this list.
 
-## Anthology
-
 - A Mencken Chrestomathy: His Own Selection of His Choicest Writing
 - The Everyman Chesterton
 
-## Autobiography
-
 - Happy Days, Newspaper Days, Heathen Days, Days Revisited
-
-## Biography
 
 - J.R.R. Tolkien: A Biography
 - The Passion of Ayn Rand
 - Who is Ayn Rand?
 
-## Dictionary
-
 - A New Dictionary of Quotations on Historical Principles from Ancient and Modern Sources
-
-## Economics
 
 - Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics
 - Human Action: A Treatise on Economics
 - What Has Government Done to Our Money?
 - Capitalism: A Treatise on Economics
 
-
-## Letters
-
 - Letters of Ayn Rand
 - The Letters of J.R.R. Tolkien
 
-## Notebooks
-
 -  Minority Report: H.L. Mencken Notebooks
 -  The Journals of Ayn Rand
-
-## Philosophy
 
 - Basic Writings of Nietzsche
 - The Virtue of Selfishness: A New Concept of Egoism
