@@ -25,12 +25,6 @@ See [my “now” page](/now).
 
 See [why you should](/contact), though read my [frequently asked questions](/faq), first.
 
-
-
-<style>#mybooks img { float: left; margin-bottom: 2em; margin-right: 0.5em } #mybooks h3 { margin-top: 0 } #mybooks br { clear: both }</style>
-
-<section id="mybooks">
-
 ## Books
 
 [![Anything You Want book cover](https://sive.rs/images/DerekSivers-cover-AnythingYouWant-150x185.png)](/a)
