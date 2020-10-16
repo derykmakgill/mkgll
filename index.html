@@ -8,7 +8,11 @@ title: "Deryk Makgill's blog"
     margin-bottom: 15px;
 ">
 
-
+<p><strong>New:</strong> {% for post in site.posts limit:1 %}
+  <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+{% endfor %}</p>
 
 
 
