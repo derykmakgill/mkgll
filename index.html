@@ -3,30 +3,11 @@ layout: default
 title: "Deryk Makgill's blog"
 ---
 
-<h1>Deryk Makgill's blog</h1>
+<img src="https://github.com/derykmakgill/mkgll/blob/master/assets/img/girders.png?raw=true?raw=true&quot;" alt="girders.png" style="
+    max-width: 350px;
+    margin-bottom: 15px;
+">
 
-{% assign documents = site.documents | sort: 'date' | reverse %}
-
-{% for document in documents limit:500 %}
-  {% if document.layout == 'post' %}
-<div class="article">
-        <span class="date" style="display:block;">{{ document.date | date: '%B %d, %Y' }}</span>
-
-  {% if document.layout == "post" %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.title }} </a>
-         </span>{% elsif document.layout == "link" %} <span class="title">   <a href="{{ document.link | relative_url }}"> {{ document.title }} | {{ document.site }} </a>→
-         </span> 
-         
-{% else %} <span class="title">   <a href="{{ document.url | relative_url }}">{{ document.date | date: "%H:%M:%S" }}   </a>
-         </span>  {% endif %}
-       
-       
-     
-      
-         
-        
- </div> 
-  {% endif %}   
-{% endfor %}
 
 
 
